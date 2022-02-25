@@ -1,6 +1,6 @@
 # e-commerce-backend
 
-    [![License: MIT](https://img.shields.io/badge/License-MIT-bluesvg)]
+    [![License: MIT](https://https://img.shields.io/badge/license-MIT-blue)]
 
 ## Description
 
