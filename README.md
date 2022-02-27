@@ -23,7 +23,9 @@ To run this program locally, run 'npm i' on your terminal. Then start the applic
 
 ## Usage
 
-none
+watch the video below
+
+https://drive.google.com/file/d/1zJGA6rAiKnBW0ll-hq3N-O40hXemkEjL/view
 
 ## Credits
 
